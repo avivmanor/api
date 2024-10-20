@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "username": "chris",
+    "steps": 47,
+    "gender": "undetermined",
+    "nationality": "AU",
+    "location": {
+      "street": {
+        "number": 3797,
+        "name": "Railroad St"
+      },
+      "city": "Melbourne",
+      "state": "Australian Capital Territory",
+      "country": "Australia",
+      "postcode": 8182,
+      "coordinates": {
+        "latitude": "-82.4910",
+        "longitude": "-153.7334"
+      },
+      "timezone": {
+        "offset": "+4:30",
+        "description": "Kabul"
+      }
+    },
+    "phone": "05-1555-8236",
+    "email": "steve.palmer@example.com"
+  },
+  {
+    "id": 2,
+    "username": "dan",
+    "steps": 11,
+    "gender": "male",
+    "nationality": "BR",
+    "location": {
+      "street": {
+        "number": 674,
+        "name": "Rua Pará "
+      },
+      "city": "Ribeirão Preto",
+      "state": "Pernambuco",
+      "country": "Brazil",
+      "postcode": 54782,
+      "coordinates": {
+        "latitude": "-78.6873",
+        "longitude": "-121.4120"
+      },
+      "timezone": {
+        "offset": "+8:00",
+        "description": "Beijing, Perth, Singapore, Hong Kong"
+      }
+    },
+    "phone": "(62) 0716-3125",
+    "email": "balduino.freitas@example.com"
+  },
+  {
+    "id": 3,
+    "username": "samantha",
+    "steps": 20,
+    "gender": "female",
+    "nationality": "TR",
+    "location": {
+      "street": {
+        "number": 5267,
+        "name": "Bağdat Cd"
+      },
+      "city": "Sakarya",
+      "state": "Muğla",
+      "country": "Turkey",
+      "postcode": 36664,
+      "coordinates": {
+        "latitude": "67.7248",
+        "longitude": "170.5906"
+      },
+      "timezone": {
+        "offset": "+10:00",
+        "description": "Eastern Australia, Guam, Vladivostok"
+      }
+    },
+    "phone": "(142)-139-2659",
+    "email": "yasemin.yazici@example.com"
+  },
+  {
+    "id": 4,
+    "username": "bruce",
+    "steps": 7,
+    "gender": "male",
+    "nationality": "AU",
+    "location": {
+      "street": {
+        "number": 9845,
+        "name": "Paddock Way"
+      },
+      "city": "Port Macquarie",
+      "state": "Queensland",
+      "country": "Australia",
+      "postcode": 5172,
+      "coordinates": {
+        "latitude": "-82.5431",
+        "longitude": "167.8549"
+      },
+      "timezone": {
+        "offset": "0:00",
+        "description": "Western Europe Time, London, Lisbon, Casablanca"
+      }
+    },
+    "phone": "09-4103-8531",
+    "email": "virgil.mills@example.com"
+  },
+  {
+    "id": 5,
+    "username": "zoey",
+    "steps": 11,
+    "gender": "female",
+    "nationality": "DK",
+    "location": {
+      "street": {
+        "number": 3587,
+        "name": "Padborgvej"
+      },
+      "city": "Noerre Alslev",
+      "state": "Danmark",
+      "country": "Denmark",
+      "postcode": 60730,
+      "coordinates": {
+        "latitude": "-38.6721",
+        "longitude": "161.6626"
+      },
+      "timezone": {
+        "offset": "-10:00",
+        "description": "Hawaii"
+      }
+    },
+    "phone": "15341025",
+    "email": "thea.mortensen@example.com"
+  },
+  {
+    "id": 6,
+    "username": "ron",
+    "steps": 0,
+    "gender": "male",
+    "nationality": "CA",
+    "location": {
+      "street": {
+        "number": 741,
+        "name": "15th St"
+      },
+      "city": "Woodstock",
+      "state": "Québec",
+      "country": "Canada",
+      "postcode": "W4W 1C3",
+      "coordinates": {
+        "latitude": "-70.1191",
+        "longitude": "-16.6591"
+      },
+      "timezone": {
+        "offset": "+10:00",
+        "description": "Eastern Australia, Guam, Vladivostok"
+      }
+    },
+    "phone": "K58 I55-3892",
+    "email": "james.ross@example.com"
+  },
+  {
+    "id": 7,
+    "username": "rachel",
+    "steps": 10,
+    "gender": "female",
+    "nationality": "RS",
+    "location": {
+      "street": {
+        "number": 8196,
+        "name": "Braće Jelića"
+      },
+      "city": "Sokobanja",
+      "state": "Kosovska Mitrovica",
+      "country": "Serbia",
+      "postcode": 93888,
+      "coordinates": {
+        "latitude": "60.7576",
+        "longitude": "119.7770"
+      },
+      "timezone": {
+        "offset": "+11:00",
+        "description": "Magadan, Solomon Islands, New Caledonia"
+      }
+    },
+    "phone": "031-4027-353",
+    "email": "svetlana.topic@example.com"
+  }
+]
